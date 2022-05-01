@@ -9,9 +9,7 @@ I write this function named add_time that takes in two required parameters and o
 - a duration time that indicates the number of hours and minutes
 - (optional) a starting day of the week, case insensitive
 
-<br>
-
 ### Examples:
-<img src="/img/timecalc.png" alt="drawing" width="450"/>
+<img src="/img/timecalc.png" alt="drawing" width="500"/>
 
-For your convinience i let a example in de source code. Feel free to clone and use with your arithmetic problems!
+For your convinience i let a example in de source code. Feel free to clone and use!
